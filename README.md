@@ -1,4 +1,4 @@
-# Ursino-et-al.-ICP-Simulation
+# Ursino et al. ICP Simulation
 ## Introduction
 This is an implementation of the intracranial pressure (ICP) dynamical system model proposed in the following paper:\
 *A simple mathematical model of the interaction between intracranial pressure and cerebral hemodynamics
