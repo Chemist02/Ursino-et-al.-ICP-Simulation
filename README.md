@@ -22,7 +22,7 @@ at the paper; especially Figure 1, Table 1, and Appendices A and B):
 
 ### \_\_init\_\_:
 Constructs an UrsinoSimulation object with the given system parameters. Throws an exception if the high sigmoid bound
-is less than the low sigmoid bound.\
+is less than the low sigmoid bound.
 #### Parameters (all have the default values shown below, and are therefore optional to include):
 ICP: float = 9.5\
 AC: float = 0.15\
@@ -141,8 +141,8 @@ CSFInjectRate: float
    
 ### stepSimulation:
 Step the simulation forward by the specified (ideally infinitesmal) timestep, updating the state variables along the
-way (given the input parameters to the system).\
-Parameters:\
+way (given the input parameters to the system).
+#### Parameters:
 timestep: float\
 arterialPressure: float\
 arterialPressureDelta: float\
