@@ -18,7 +18,7 @@ documentation is also included below in this document.
 The UrsinoSimulation.py file contains a single class called, wait for it, UrsinoSimulation. To run a simulation, an
 UrsinoSimulation object must be created (you can create as many as you'd like). The class itself is relatively simple, 
 and contains the following functions (for more information on what everything does, I highly recommend taking a look
-at the paper; especially Figure 1 and Table 1):
+at the paper; especially Figure 1, Table 1, and Appendices A and B):
 
 ### \_\_init\_\_:
 Constructs an UrsinoSimulation object with the given system parameters. Throws an exception if the high sigmoid bound
